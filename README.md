@@ -1,3 +1,8 @@
+# Nuxt 3 Docker start
+```bash
+docker-compose up -d --build
+```
+Фронт на 3000 порту
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
