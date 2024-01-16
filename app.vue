@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div>
     <select v-model="selectedPeriod" @change="fetchData">
       <option value="day">Day</option>
       <option value="week">Week</option>
